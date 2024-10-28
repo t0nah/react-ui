@@ -55,3 +55,7 @@ The library includes the following components:
 - Hero Image
 - Card
   Each component is responsive and includes a default state and a disabled state.
+
+# GitHub Actions CI/CD
+
+Code pushed to GitHub will automatically run Prettier, ESLint, and tests to ensure code quality.
